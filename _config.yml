@@ -9,17 +9,17 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Dev.Me
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: "Dev.Me"
+subtitle: "나를 위한 개발서"
+email: impression1980@gmail.com
+name: "개발은 자료정리에서 시작된다"
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  공부하는 내용들을 잘 정리해봅시다
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://impression1980.github.io/" 
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
@@ -78,22 +78,22 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
-    desc: Follow me on Twitter
+    username: mastermind
+    url: https://www.instagram.com/artisthomes/
+    desc: Follow me 
     share: true
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
-    url: ""
+    username: Kim, Jong-Ha
+    url: "https://www.facebook.com/mastermindJH/"
     desc: Friend me on Facebook
     share: true
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: impression1980
+    url: https://github.com/impression1980
     desc: Fork me on GitHub
     share: false
 
