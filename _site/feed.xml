@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Centrarium</title>
-    <description>A simple yet classy theme for your Jekyll website or blog.
+    <title>Dev.Me</title>
+    <description>공부하는 내용들을 잘 정리해봅시다
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 30 Jan 2021 22:58:03 +0100</pubDate>
-    <lastBuildDate>Sat, 30 Jan 2021 22:58:03 +0100</lastBuildDate>
+    <pubDate>Sun, 31 Jan 2021 16:36:48 +0100</pubDate>
+    <lastBuildDate>Sun, 31 Jan 2021 16:36:48 +0100</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>첫 포스팅을 올려보자</title>
+        <description>&lt;p&gt;GitHub Blog 서비스인 github.io 블로그 시작하기로 했다. GitHub Blog 서비스의 이름은 Pages이다.&lt;/p&gt; &lt;p&gt;Pages가 다른 블로그 플랫폼 보다 편한 것 같아서 마음에 든다. 다른 사람들도 같이 많이 사용했으면 좋겠다는 생각이 든다.&lt;/p&gt;...</description>
+        <pubDate>Sun, 31 Jan 2021 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/2021/01/31/dummy.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2021/01/31/dummy.html</guid>
+        
+        
+        <category>Blog</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -120,18 +132,6 @@
         <pubDate>Sat, 18 Apr 2015 21:25:52 +0200</pubDate>
         <link>http://localhost:4000/dummy/2015/04/18/dummy2.html</link>
         <guid isPermaLink="true">http://localhost:4000/dummy/2015/04/18/dummy2.html</guid>
-        
-        
-        <category>Dummy</category>
-        
-      </item>
-    
-      <item>
-        <title>Dummy Post</title>
-        <description>&lt;p&gt;This is just a dummy post. Lorem ipsum and all the rest.&lt;/p&gt; &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna...</description>
-        <pubDate>Sat, 18 Apr 2015 21:25:52 +0200</pubDate>
-        <link>http://localhost:4000/dummy/2015/04/18/dummy.html</link>
-        <guid isPermaLink="true">http://localhost:4000/dummy/2015/04/18/dummy.html</guid>
         
         
         <category>Dummy</category>
